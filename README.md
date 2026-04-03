@@ -133,7 +133,7 @@ php artisan make:model Product -mcr
 ```
 ## Demo Video
 
-
+https://drive.google.com/file/d/1qD2Iwk_xzAVpB2x4NdkSf52v2BSc2zI_/view?usp=drivesdk
 
 ---
 
