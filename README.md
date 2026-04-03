@@ -131,12 +131,15 @@ Create Model + Migration
 php artisan make:model Product -mcr
 
 ```
+## Demo Video
 
+
+
+---
 
 ## 👨‍💻 Author
 
-Your Name
-GitHub: Eman Farooq (https://github.com/emanfarooq26)
+Eman Farooq (https://github.com/emanfarooq26)
 
 ---
 
